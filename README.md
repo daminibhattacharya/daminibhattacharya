@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daminibhattacharya
 - 👀 I’m interested in all things in backend tech.
-- 🌱 I’m currently learning GoLang.
+- 🌱 I’m currently learning React native but already know .net .
 - 💞️ I’m looking to collaborate on anything backend
 - 📫 How to reach me daminibhattacharya8@gmail.com
 
